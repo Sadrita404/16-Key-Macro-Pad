@@ -130,10 +130,28 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 ---
 
 ## Bill Of Material (BOM)
-|Name	|Purpose|	Qty	|Total Price (USD)	| Component Link	 |Distributor |
+| Name | Purpose | Qty | Total Price (USD) | Component Link | Distributor |
+|------|------|------|------|------|------|
+| PCB | For adding all the component | 5 | $10.00 | [Link](https://jlcpcb.com/) | JLCPCB |
+| 0.91 inch Blue OLED Display | For the Display to add in the PCB | 1 | $1.61 | [Link](https://robocraze.com/products/0-91-inch-blue-oled-display-module?variant=40194383413401&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23607785032&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=23597632947&gbraid=0AAAAADgHQvauLmSVauQQPRd1beTFKUXXL&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSdtsCi1PB5ZLIsSXxdBe14DWB5-7qhPSGIfVvL-1njtE7h3b2JocGYaAlYdEALw_wcB) | Robocraze |
+| M3 Heatset | For securing the PCB with the case | 4 | $0.10 | [Link](https://onlyscrews.in/products/m4-x-4mm-brass-threaded-inserts?variant=49091565650233) | Onlyscrews |
+| M3x16 Bolts | For securing the PCB with the case | 16 | $0.08 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-16mm-pack-of-20?variant=48463065383225) | Onlyscrews |
+| XIAO RP2040 | For Controlling the PCB | 1 | $6.35 | [Link](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvY7vNn6tBKmEbNcZWqh0FXp9&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSdN5Bc6n-bF-js2k0JcLxiAmVTYQn5RVq83atbN41ASwhdKKu2RFEwaAmApEALw_wcB) | Robocraze |
+| SK6812 MINI LEDs | For adding to the PCB (RGB) | 16 | $0.00 | Self Sourced | Self Sourced |
+| Blank DSA Keycaps | For adding to the switches | 16 | $2.24 | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/) | Meckeys |
+| Cherry MX Switches | For the PCB where I need to place the Switch | 16 | $3.39 | [Link](https://neomacro.in/products/outemu-lemon-v3-silent?variant=50885007147286) | Neomacro |
+|  Total    |       |       |          |         |     $23.77    |
+## For 3d Printing I have use Legion where the cost is included in the Shipping
+|Tax (USD)| Shipping (USD)|
+|:-- | :--|
+|$14.52 |   $17|
+| Total (USD)(Including BOM)   |  $55.28  |
+| Round Off Total (USD)   |  $58  |
 
 
+---
 
+#### Project Under [Hack Club](https://hackclub.com/) & [Forge](https://forge.hackclub.com/)
 
 
 
