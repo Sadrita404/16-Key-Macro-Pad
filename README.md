@@ -140,12 +140,13 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 | SK6812 MINI LEDs | For adding to the PCB (RGB) | 16 | $0.00 | Self Sourced | Self Sourced |
 | Blank DSA Keycaps | For adding to the switches | 16 | $2.24 | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/) | Meckeys |
 | Cherry MX Switches | For the PCB where I need to place the Switch | 16 | $3.39 | [Link](https://neomacro.in/products/outemu-lemon-v3-silent?variant=50885007147286) | Neomacro |
-|  Total    |       |       |          |         |     $23.77    |
+| 1n4148 diodes | For PCB | 16 | $0.21 | [Link](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50?gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSe2U2oOhGqeyOlnmYYVhdBReY2mHgCjhgFxyJprTLmK7heT-BqfC_QaAjtLEALw_wcB&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcnjaEJ_u30hDzEYqbT_rE-N&gad_source=1) | Robu |
+|  Total    |       |       |          |         |     $23.98   |
 ## For 3d Printing I have use Legion where the cost is included in the Shipping
 |Tax (USD)| Shipping (USD)|
 |:-- | :--|
 |$14.52 |   $17|
-| Total (USD)(Including BOM)   |  $55.28  |
+| Total (USD)(Including BOM)   |  $55.49  |
 | Round Off Total (USD)   |  $58  |
 
 
