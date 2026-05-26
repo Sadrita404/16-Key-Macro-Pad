@@ -1,4 +1,6 @@
 
+---
+
 <img width="1920" height="1080" alt="16 Keys Macro Pad" src="https://github.com/user-attachments/assets/21c607ec-0d77-4bba-b276-1ad08401c6c8" />
 
 
@@ -132,6 +134,11 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 8) And then we will add the Key Caps to the Switches.
 
 9) The last step connect the Keyboard to the PC and start using it...
+
+---
+
+<img width="1587" height="2245" alt="Macro Pad Poster" src="https://github.com/user-attachments/assets/2b4390f8-05f4-4b49-bd7e-ec84c562ff05" />
+
 
 ---
 
