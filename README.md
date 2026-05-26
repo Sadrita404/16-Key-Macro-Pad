@@ -137,7 +137,7 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 
 ---
 
-<img width="987" height="1545" alt="Macro Pad Poster" src="https://github.com/user-attachments/assets/2b4390f8-05f4-4b49-bd7e-ec84c562ff05" />
+<img width="397" height="561" alt="Macro Pad Poster" src="https://github.com/user-attachments/assets/2b4390f8-05f4-4b49-bd7e-ec84c562ff05" />
 
 
 ---
