@@ -6,12 +6,10 @@
 
 ---
 
-|Title | Split-Keyboard|
+|Title | 16 Key Macro Pad|
 |:-- |:--|
-|Project Link |  [Link](https://forge.hackclub.com/projects/281) |
 |Author | Sadrita Neogi|
-|Platform | Forge|
-|Tire | 3|
+
 
 ---
 
@@ -165,7 +163,7 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 
 ---
 
-#### Project Under [Hack Club](https://hackclub.com/) & [Forge](https://forge.hackclub.com/)
+#### Project Under [Hack Club](https://hackclub.com/) 
 
 
 
