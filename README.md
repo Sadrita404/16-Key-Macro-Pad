@@ -148,17 +148,17 @@ This is a macro pad that has 16 customizable switches. the keys are 4 x4 Layout 
 | M3 Heatset | For securing the PCB with the case | 4 | $0.10 | [Link](https://onlyscrews.in/products/m4-x-4mm-brass-threaded-inserts?variant=49091565650233) | Onlyscrews |
 | M3x16 Bolts | For securing the PCB with the case | 16 | $0.08 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-16mm-pack-of-20?variant=48463065383225) | Onlyscrews |
 | XIAO RP2040 | For Controlling the PCB | 1 | $6.35 | [Link](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvY7vNn6tBKmEbNcZWqh0FXp9&gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSdN5Bc6n-bF-js2k0JcLxiAmVTYQn5RVq83atbN41ASwhdKKu2RFEwaAmApEALw_wcB) | Robocraze |
-| SK6812 MINI LEDs | For adding to the PCB (RGB) | 16 | $0.00 | Self Sourced | Self Sourced |
+| SK6812 MINI LEDs | For adding to the PCB (RGB) | 16 | $12.37 | [Link](https://www.desertcart.in/products/729031642-50pcs-sk6812-mini-e-rgb-similar-with-ws2812b-sk6812-3228?source=search) | Desertcart |
 | Blank DSA Keycaps | For adding to the switches | 16 | $2.24 | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/) | Meckeys |
 | Cherry MX Switches | For the PCB where I need to place the Switch | 16 | $3.39 | [Link](https://neomacro.in/products/outemu-lemon-v3-silent?variant=50885007147286) | Neomacro |
 | 1n4148 diodes | For PCB | 16 | $0.21 | [Link](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50?gclid=Cj0KCQjw2YDQBhD_ARIsAE1qeSe2U2oOhGqeyOlnmYYVhdBReY2mHgCjhgFxyJprTLmK7heT-BqfC_QaAjtLEALw_wcB&gad_campaignid=17427802703&gbraid=0AAAAADvLFWcnjaEJ_u30hDzEYqbT_rE-N&gad_source=1) | Robu |
-|  Total    |       |       |          |         |     $23.98   |
+|  Total    |       |       |          |         |     $36.35   |
 ## For 3d Printing I have use Legion where the cost is included in the Shipping
 |Tax (USD)| Shipping (USD)|
 |:-- | :--|
 |$14.52 |   $17|
-| Total (USD)(Including BOM)   |  $55.49  |
-| Round Off Total (USD)   |  $58  |
+| Total (USD)(Including BOM)   |  $67.68  |
+| Round Off Total (USD)   |  $70  |
 
 
 ---
